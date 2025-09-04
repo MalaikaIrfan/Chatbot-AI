@@ -95,8 +95,8 @@ export function Sidebar({ className }: SidebarProps) {
             <User className="text-sidebar-primary-foreground" size={14} />
           </div>
           <div className="flex-1 min-w-0">
-            <p className="text-sm font-medium text-sidebar-foreground truncate">John Developer</p>
-            <p className="text-xs text-muted-foreground truncate">john@example.com</p>
+            <p className="text-sm font-medium text-sidebar-foreground truncate">Malaika Irfan</p>
+            <p className="text-xs text-muted-foreground truncate">malaika@example.com</p>
           </div>
         </div>
       </div>
